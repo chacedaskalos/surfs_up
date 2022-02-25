@@ -9,6 +9,7 @@ Module 9 challenge
   - The minimum temperature in June was 64 degrees, and 56 degrees in December.
   - The mean temperature in June was 75 degrees, and 71 degrees in December.
   - The range of temperatures in June was 21 degrees, and 27 degrees in December.
+
 ![dec_temps](https://user-images.githubusercontent.com/96211484/155814631-edc2bab9-10d5-449d-8883-0fc90e23d30c.png)
 ![june_temps](https://user-images.githubusercontent.com/96211484/155814639-75ed60c0-817b-49dc-ac15-1334d9dd45aa.png)
 
